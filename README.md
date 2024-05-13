@@ -1,7 +1,7 @@
 # Simples Lista de tarefas
 
 ## Tecnologias 
--HTML
+- HTML
 - CSS
 - JavaScript
 - CSharp
